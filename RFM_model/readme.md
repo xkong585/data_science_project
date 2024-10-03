@@ -1,5 +1,7 @@
 # Clustering Customers Based on Stock Market Data (RFM Model)
 
+![alt text](https://i.imgur.com/Nk37UIz.png)
+
 ## Project Background
 The project animed to classfied the stock market customers. 
 We use RFM model, kmeans clustering to enhance decision-making in e-commerce. 
